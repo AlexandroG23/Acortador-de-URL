@@ -2,7 +2,7 @@
 
 Short URLs con MongoDB + Mongoose + Node.js + Express + Handlebars + JavaScript + Bootstrap
 
-En este proyecto podemos agregar, editar, eliminar y copiar el enlace.
+En este proyecto podemos recortar nuestros enlaces y además de agregar, editar, eliminar y copiar el enlace.
 
 ### Vista previa del proyecto
 
